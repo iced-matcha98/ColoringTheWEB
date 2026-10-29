@@ -1,5 +1,6 @@
 # ColoringTheWEB
 Coloring the Web Assignment
+<img src="image-url.jpg" alt="Description of the image">
 <table>
 <caption>Coloring the Web Assignment</caption>
   <tr>
