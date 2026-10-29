@@ -2,7 +2,7 @@
 <table>
 <caption>Coloring the Web Assignment</caption>
   <tr>
-   <th colspan="4" style="border: 1px solid red;font-family: 'Brush Script MT', cursive">Autumn Color Scheme</th>
+   <th style="border: 1px solid red;font-family: 'Brush Script MT', cursive" colspan="4">Autumn Color Scheme</th>
   </tr> 
   <tr>
     <th style="border: 1px solid red; background-color:#FFC857;">Golden Pollen</th><!--COLORED CELLS AND COLOR NAMES-->
