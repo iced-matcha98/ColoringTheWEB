@@ -4,7 +4,7 @@ Coloring the Web Assignment
 <table>
 <caption>Coloring the Web Assignment</caption>
   <tr>
-   <td style="font-family: "Brush Script MT", "Comic Sans MS", cursive;" colspan="4">Autumn Color Scheme</td>
+   <td style="font-family: 'Brush Script MT', 'Comic Sans MS', cursive;" colspan="4">Autumn Color Scheme</td>
   </tr>
   <tr>
     <th style="background-color: #FFC857;">Golden Pollen</th><!--COLORED CELLS AND COLOR NAMES-->
