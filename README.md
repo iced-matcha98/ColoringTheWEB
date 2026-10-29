@@ -2,13 +2,13 @@
 <table>
 <caption>Coloring the Web Assignment</caption>
   <tr>
-   <th style="border: 1px solid red;font-family: 'Brush Script MT', cursive;" colspan="4">Autumn Color Scheme</th>
+   <th style="border: 1px solid red;font-family: 'Brush Script MT', cursive;colspan="4">Autumn Color Scheme</th>
   </tr>
   <tr>
-    <th style="border: 1px solid red; background-color: #FFC857;">Golden Pollen</th><!--COLORED CELLS AND COLOR NAMES-->
-    <th style="border: 1px solid red; background-color: #FFC857;">Carmine</th>
-    <th style="border: 1px solid red; background-color: #FFC857;">Vivid Tangerine</th>
-    <th style="border: 1px solid red; background-color: #FFC857;">Lobster Pink</th>
+    <th style="border: 1px solid red; background-color:FFC857;">Golden Pollen</th><!--COLORED CELLS AND COLOR NAMES-->
+    <th style="border: 1px solid red; background-color:B20D30;">Carmine</th>
+    <th style="border: 1px solid red; background-color:EE8434;">Vivid Tangerine</th>
+    <th style="border: 1px solid red; background-color:C95D63;">Lobster Pink</th>
   </tr>
   <tr>
     <td style="border: 1px solid red;">FFC857</td><!--COLOR HEX VALUES-->
