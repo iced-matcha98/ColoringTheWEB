@@ -1,6 +1,6 @@
 # ColoringTheWEB
 Coloring the Web Assignment
-<img src="image-url.jpg" alt="Description of the image">
+<img height="150px" src="pexels-seda-nur-korkmaz-325097232-14536997.jpg" alt="Hand Holding Fall Leaves">
 <table>
 <caption>Coloring the Web Assignment</caption>
   <tr>
